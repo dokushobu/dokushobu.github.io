@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[hooden]]></title>
+  <subtitle><![CDATA[hooden's blog]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://hooden.github.io/"/>
+  <updated>2015-01-20T07:59:39.865Z</updated>
+  <id>http://hooden.github.io/</id>
+  
+  <author>
+    <name><![CDATA[mach hoody]]></name>
+    <email><![CDATA[mach.drill.kick@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[First Post]]></title>
+    <link href="http://hooden.github.io/2015/01/20/20150120/"/>
+    <id>http://hooden.github.io/2015/01/20/20150120/</id>
+    <published>2015-01-20T03:24:15.000Z</published>
+    <updated>2015-01-20T07:56:19.000Z</updated>
+    <content type="html"><![CDATA[<p>ブログ用意したほうがいいかな、と思ってとりあえずgitHub pagesとHexoで軽く作りました。</p>
+<h2 id="Test_Post">Test Post</h2>
+<p>以下はテストの記述です</p>
+<h3 id="Code_Highlight">Code Highlight</h3>
+<p>bash</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ ls -la</div></pre></td></tr></table></figure>
+
+<p><br><br>php</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="variable">$test</span> = <span class="string">"this is my test"</span>;</div><div class="line"><span class="keyword">echo</span> <span class="variable">$test</span>;</div></pre></td></tr></table></figure>
+
+<p><br></p>
+<h3 id="Link">Link</h3>
+<p><a href="http://google.com/" target="_blank" rel="external">Google</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>ブログ用意したほうがいいかな、と思ってとりあえずgitHub pagesとHexoで軽く作りました。</p>
+<h2 id="Test_Post">Test Post</h2>
+<p>以下はテストの記述です</p>
+<h3 id="Code_Highlight">Code ]]>
+    </summary>
+    
+      <category term="雑記" scheme="http://hooden.github.io/tags/%E9%9B%91%E8%A8%98/"/>
+    
+      <category term="日記" scheme="http://hooden.github.io/categories/%E6%97%A5%E8%A8%98/"/>
+    
+  </entry>
+  
+</feed>
