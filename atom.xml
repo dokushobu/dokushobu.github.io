@@ -3,9 +3,9 @@
   <title><![CDATA[BTM 読書部]]></title>
   <subtitle><![CDATA[読書感想文]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://dokusho.github.io/"/>
-  <updated>2015-01-23T04:33:15.511Z</updated>
-  <id>http://dokusho.github.io/</id>
+  <link href="http://dokushobu.github.io/"/>
+  <updated>2015-01-23T04:36:21.382Z</updated>
+  <id>http://dokushobu.github.io/</id>
   
   <author>
     <name><![CDATA[BTM 読書部 筆記担当]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[First Post]]></title>
-    <link href="http://dokusho.github.io/2015/01/23/20150123/"/>
-    <id>http://dokusho.github.io/2015/01/23/20150123/</id>
+    <link href="http://dokushobu.github.io/2015/01/23/20150123/"/>
+    <id>http://dokushobu.github.io/2015/01/23/20150123/</id>
     <published>2015-01-23T04:25:09.000Z</published>
     <updated>2015-01-23T04:31:38.000Z</updated>
     <content type="html"><![CDATA[<h2 id="ごあいさつ">ごあいさつ</h2>
@@ -31,9 +31,9 @@
 ]]>
     </summary>
     
-      <category term="雑記" scheme="http://dokusho.github.io/tags/%E9%9B%91%E8%A8%98/"/>
+      <category term="雑記" scheme="http://dokushobu.github.io/tags/%E9%9B%91%E8%A8%98/"/>
     
-      <category term="日記" scheme="http://dokusho.github.io/categories/%E6%97%A5%E8%A8%98/"/>
+      <category term="日記" scheme="http://dokushobu.github.io/categories/%E6%97%A5%E8%A8%98/"/>
     
   </entry>
   
